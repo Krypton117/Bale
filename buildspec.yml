@@ -1,6 +1,6 @@
-version: 0.1
+version: 0.2
 
 phases:
-	post_build:
-		commands:
-			- chalice deploy
+    post_build:
+        commands:
+            - chalice deploy
